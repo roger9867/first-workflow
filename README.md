@@ -1,2 +1,3 @@
 # first-workflow
-Example Repo for Github Actions Tutorial.
+Developing a GitHub Actions workflow from the ground up.
+
